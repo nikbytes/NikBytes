@@ -1,6 +1,6 @@
 # Nikolas
 
-###
+---
 
 ## About me
 I am a recent college graduate from Longwood University with a Bachelors of Science degree in Computer Science. My main programming languages are C and C++. I am also proficient in Python.
