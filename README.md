@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a college graduate from Longwood University with a Bachelors of Science degree in Computer Science. My main programming languages are C and C++. I am also proficient in Python and some other languages.
+I am a college graduate from Longwood University with a Bachelors of Science degree in Computer Science. My main programming languages are C and C++. I am also proficient in Python and some other languages.
 
 
 ## 🌐 Socials:
@@ -24,4 +24,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Nikbytes&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
